@@ -77,6 +77,19 @@ Analyzed banking and loan data to identify key trends in loan performance, custo
 
 </td>
 
+<td width="50%" valign="top">
+
+### Hospitality Analytics
+
+Analyzed hospitality booking data to uncover insights into revenue performance, occupancy rates, booking trends, cancellation behavior, customer ratings, and property performance. Developed an interactive dashboard to track key business KPIs, including Total Revenue, Occupancy Rate, Realisation Rate, RevPAR, Average Daily Rating, Total Bookings, Cancellation Rate, and No-Show Rate. Analyzed revenue by property, city, category, room class, and booking platform to identify performance trends and support data-driven decision-making in the hospitality industry.
+
+**Tech Stack**
+- Excel
+- Power BI
+- Tableau
+- SQL
+
+</td>
 </tr>
 </table>
 
