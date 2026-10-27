@@ -46,10 +46,6 @@ I'm a **Data Analyst and Business Analyst fresher** passionate about transformin
 ---
 ## ⭐ Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ### 🏨 Olist E-commerce
 
@@ -61,9 +57,7 @@ Analyzed Brazilian e-commerce data from the Olist dataset to uncover insights in
 - Tableau
 - Data Visualization
 
-</td>
 
-<td width="50%" valign="top">
 
 ### Banking Analytics
 
@@ -75,9 +69,7 @@ Analyzed banking and loan data to identify key trends in loan performance, custo
 - Tableau
 - SQL
 
-</td>
 
-<td width="50%" valign="top">
 
 ### Hospitality Analytics
 
@@ -89,9 +81,6 @@ Analyzed hospitality booking data to uncover insights into revenue performance, 
 - Tableau
 - SQL
 
-</td>
-</tr>
-</table>
 
 ---
 
